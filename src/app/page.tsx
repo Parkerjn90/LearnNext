@@ -22,7 +22,7 @@ export default async function Home() {
           href="/new"
           className="border border-slate-300
         text-slate-300 px-2 py-1 rounded
-        hover:bg-slate-700 focu-within:bg-slate-700
+        hover:bg-slate-700 focus-within:bg-slate-700
         outline-none">New</Link>
       </header>
       <ul className="pl-4">
